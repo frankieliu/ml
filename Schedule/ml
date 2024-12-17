@@ -1,0 +1,335 @@
+
+collaborative filtering
+
+generate features for recommendation engine
+"sad music"
+"genre"
+
+Use pre-trained models
+Collaborative filtering for the historical playlist items
+Recommendation system
+
+---
+
+Google
+
+ML
+
+---
+
+Staff
+L6
+
+---
+
+Transition - whether to transition
+
+Then How
+
+---
+
+ML Engineers
+
+50% engineering
+50% model building
+
+very wide spectrum
+
+ML Engineer
+Dev / Infra work
+Pure model
+
+Flexibility
+
+Governed by the needs
+
+Model building part
+collecting data
+Trying different model options
+
+XGBoost
+Deep Learning -- unstructure data
+Image / Text
+Transfer learning - foundation models
+Fine tuning
+
+Business Metrics Driven
+Different type of engineer
+
+One way of solving the problem
+Google ETA
+80% is engineering problem
+ML system problem
+How to calculate the ETA between two points
+
+GenAI - try different ideas
+Prompt - don't need to a ML expert to use the tools
+NLP expert
+Domain knowledge
+
+How - not a good way
+L6 roles - pay pretty well
+L5 lowest - 3-4 yr of experience
+Capstone project doesn't 
+doesn't make a different
+
+Have done this project in academic
+Toy project - start up
+
+Translatable
+
+Internal transfers
+- better chance
+
+ML roles
+Model building
+ML fundamentals
+
+ML Ops / ML infra positions
+good field
+closer to traditional SWEs
+don't have to do any model building
+
+Model service
+Scalability
+Latency
+
+SWE - ML Engineer (higher bump)
+ML Infra - ML (less bump)
+
+Work on ML Infra
+Interact with the model
+Feature
+Feature
+
+Model serving and developing infrastructure
+
+Much closer to 
+
+Capstone useless
+
+Does not translate as industry 
+
+Generalized ML roles
+
+Have tons of experience in Model
+Improve latency in Model Infra
+
+GenAI
+
+Optimization work inseperable from model
+
+Early days for LLM
+Very tiny window for 8k 4k for context length
+
+Underlying
+
+In transform
+O(n^2) self-attention  scales as sequence length square
+
+In one year -- things are not
+
+128k
+
+gemini pro 1e6
+
+Not a breakthrough in LLM - same model structure
+
+We can use caching -- self transformer cachable don't have to
+same transformation everytime
+
+Only for new token -- only by engineering
+
+Moved the needle
+
+Interview - impression -- deep understanding of model structure
+
+Connections -- have more handshake and collaboration
+
+ML Infra - ML Ops - get enough 
+
+Qi - Airbnb Palo networks
+
+Smaller companies - buys the the infra
+Model building person
+
+Hire the generalists
+Data steps - relatively small team
+Business impact
+
+Buy a lot more solutions
+
+Model serving 
+GCP and AWS offerings
+
+General AI 
+Larger companies can build the foundational models
+Facebook / Google / AWS
+
+Not foundational models
+Applications on foundational models
+
+Less data in general
+Bulding applications
+
+Lose the chance to large model 
+
+XGBoost -- cookbook - data collection
+feature engineering
+
+Supervised learning
+
+Interview rounds - are still technical
+Years of experiment - behavioral
+Machine learning
+
+ML Depth - deep dive in one of the project
+for higher level positions
+
+Senior
+
+Technical rounds irrelevant to
+
+Behavioral non - technical
+
+Engineering manager - not every story has to be machine learning
+
+Machine learning system design
+- useful
+- template to approach system 
+- what you should discuss and formulate
+
+ML breath - ML fundamental
+- Q & A
+- Bias and Variance
+
+Designed for interview prep
+
+Capstone 
+- does not help years of experience
+
+Apply for ML infra role
+
+General ML
+Tell me a story that is ML related
+
+ML Infra
+Help ML to deploy experience that can relate better
+
+How to switch from general SWE to ML domain
+Backend - microsoft cloud
+Meta product backend engineering
+ML Switch Up
+Most positions most require experience
+
+New positions are mostly in ML space
+Fewer positions in SW engineering
+
+Lakshmi Akkiraju
+Qi Li
+
+Internal horizontal scaling infrastructure team
+
+Need experience in ML model building
+System for service ML model
+
+Serving model
+
+ML Fundamentals
+ML System Design
+
+Fundamental materials
+Supervised material -- 
+Infra people concepts are relevant
+MSE
+Log Loss
+Evaluation Metrics Precision Recall
+Have a very good understanding
+Frequently appear in ML problems and design
+ML system for recommendation
+
+Can build the system pretty well
+New problem for ML system design
+Because
+
+Content filtering
+Recommendation system
+40-50% in ML system design
+
+2 tower
+video tower
+user tower
+user watched enough videos long enough
+binary classification
+what is the loss function for
+Binary cross entropy
+Log loss
+
+Statsquest watch youtube videos
+
+Mohsen Kiskani
+
+Python and TF
+Transition to GCP
+
+Work more on GenAI work
+2023 didn't have a good opp for GenAI
+Slow start - hiring people to do search relevancy
+RAG
+Rebuild chatbot
+
+Before 2023 - internally build NLP models
+Targetting QA and chatbot
+Similar to LLM offering
+
+When ChatGPT went viral
+Owner of Chatbot model
+strong believe
+If we take ChatGPT - we have to do fine tuning
+and we end up with a very similar model as we have now
+
+GenAI work
+System work
+Prompt Engineering
+No longer doing model building
+Don't need to be a ML to do any of this
+GenAI should democratize use of AI
+FrontEnd developer creates good prompts
+
+Build something with V LLM to help solve some question
+
+Code generation -- it will be a good project to discuss
+Fills the gap -- 
+
+Foundation models
+
+Try to fine tune llama 3
+
+Not revolutionary
+
+Applications - from code source
+
+GPT4.0
+
+Gemini5.0 Pro - performance is very close
+Strategic partnership with Google
+
+Design Machine Learning Systems Production Ready
+
+Engineering blog
+
+Too many things
+
+AirBnb 40 blogs -- all machine design question are related
+Generating embeddings for the listings
+
+Uber ml blog
+Airbnb ml blog
+
+Read about all the ML systems
+
+Facebook has too much stuff
+
+
+---
+
